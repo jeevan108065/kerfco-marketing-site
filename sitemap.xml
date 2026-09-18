@@ -2,8 +2,8 @@
 <!-- Replace the domain below with your live URL (custom domain or GitHub Pages URL). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kerfcotimbertech.com/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <loc>https://kerfco-marketing-site.vercel.app/</loc>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>

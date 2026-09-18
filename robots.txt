@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace the domain below with your live URL.
-Sitemap: https://www.kerfcotimbertech.com/sitemap.xml
+Sitemap: https://kerfco-marketing-site.vercel.app/sitemap.xml
